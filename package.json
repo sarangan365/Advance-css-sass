@@ -1,0 +1,20 @@
+{
+  "name": "advance",
+  "version": "1.0.0",
+  "description": "To learn the Advanced concept in CSS and SAAS",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch sass/main.scss:css/style.css"
+  },
+  "keywords": [
+    "CSS"
+  ],
+  "author": "Sarangan R",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  },
+  "dependencies": {
+    "sass": "^1.71.1"
+  }
+}
